@@ -1,6 +1,6 @@
 '''
 https://leetcode.com/problems/valid-parentheses/
-time complexity -> O(n * log(n))
+time complexity -> O(n)
 '''
 class Solution:
     def isValid(self, s: str) -> bool:
